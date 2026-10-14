@@ -1,0 +1,20 @@
+#tabbrowser-tabs[orient="vertical"] .tabbrowser-tab[usercontextid] > .tab-stack > .tab-background {
+  position: relative !important;
+}
+
+#tabbrowser-tabs[orient="vertical"] .tabbrowser-tab[usercontextid] > .tab-stack > .tab-background > .tab-context-line {
+  position: absolute !important;
+  inset-block: 7px !important;
+  inset-inline-start: 1px !important;
+  width: 2px !important;
+  height: auto !important;
+  margin: 0 !important;
+  border: none !important;
+  border-radius: 2px !important;
+  background: var(--identity-stroke-color) !important;
+}
+
+/* Gap between the container bar and the favicon */
+#tabbrowser-tabs[orient="vertical"] .tabbrowser-tab[usercontextid] > .tab-stack > .tab-content > .tab-icon-stack {
+  margin-inline-start: 4px !important;
+}
