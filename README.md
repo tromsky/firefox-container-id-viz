@@ -1,6 +1,22 @@
 # firefox-container-id-viz
 A CSS userscript to fix the ugly container identification viz
 
+---
+
+## UPDATE!
+
+New, easier method! Tested on Firefox 157 on macOS, with vertical tabs. Unknown side-effects!
+
+1. In Firefox, go to `about:config`
+2. Set `browser.nova.enabled` to `false`
+3. Done!
+4. This works better than the custom CSS because it eliminates the rounded tabs that made the viz look odd.
+
+After
+
+<img width="236" height="45" alt="image" src="https://github.com/user-attachments/assets/24ab2c26-5271-4a91-9458-44de5a7a7a11" />
+
+
 Hey! Do you hate the giant horizontal container identification viz in Firefox 155+? Then this repo is for you!
 
 This custom stylesheet replaces the ugly horizontal viz with a nice vertical one, similar to previous versions of Firefox.
