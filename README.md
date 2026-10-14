@@ -16,6 +16,7 @@ After
 
 <img width="236" height="45" alt="image" src="https://github.com/user-attachments/assets/24ab2c26-5271-4a91-9458-44de5a7a7a11" />
 
+---
 
 Hey! Do you hate the giant horizontal container identification viz in Firefox 155+? Then this repo is for you!
 
