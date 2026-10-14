@@ -11,6 +11,8 @@ Thanks, **Horza**!
 
 Confirmed in [this comment](https://blog.mozilla.org/addons/2026/09/29/nova-is-here-what-changes-for-your-firefox-theme/#comment-228046) on the Firefox blog. Still unknown side-effects?
 
+Thanks for the hint about the blog post and comment, **professor calculus**!
+
 1. In Firefox, go to `about:config`
 2. Set `browser.nova.enabled` to `false`
 3. Done!
