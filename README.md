@@ -7,6 +7,8 @@ A CSS userscript to fix the ugly container identification viz
 
 New, easier method! Tested on Firefox 157 on macOS, with vertical tabs. Unknown side-effects!
 
+Thanks, **Horza**!
+
 1. In Firefox, go to `about:config`
 2. Set `browser.nova.enabled` to `false`
 3. Done!
