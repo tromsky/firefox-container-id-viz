@@ -5,9 +5,11 @@ A CSS userscript to fix the ugly container identification viz
 
 ## UPDATE!
 
-New, easier method! Tested on Firefox 157 on macOS, with vertical tabs. Unknown side-effects!
+New, easier method! Tested on Firefox 157 on macOS, with vertical tabs.
 
 Thanks, **Horza**!
+
+Confirmed in [this comment](https://blog.mozilla.org/addons/2026/09/29/nova-is-here-what-changes-for-your-firefox-theme/#comment-228046) on the Firefox blog. Still unknown side-effects?
 
 1. In Firefox, go to `about:config`
 2. Set `browser.nova.enabled` to `false`
